@@ -1,7 +1,10 @@
-Tytul:
-Autor: Stanislaw Kowalski, Wiktoria Wierzba
-Tytul: a cos tam
+Publikacja nr 1
+Tytul: Publikacja o fizyce
+Autor: Stanislaw Kowalski, Wiktoria Wierzba, Janek Kowalski
+
 Dane: jeszcze ich nie ma
 Wnioski: tez nie ma
-
-blablabbaaaa
+Abstrakt:
+Analiza:
+Wnioski (to napisze Janek)
+Bibliografia
