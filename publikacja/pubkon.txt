@@ -1,4 +1,7 @@
-Autor: Wiki
-Tytul: a coœ tam
-Blabla
+Tytul:
+Autor: Stanislaw Kowalski, Wiktoria Wierzba
+Tytul: a cos tam
+Dane: jeszcze ich nie ma
+Wnioski: tez nie ma
+
 blablabbaaaa
